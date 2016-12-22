@@ -1,0 +1,48 @@
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\tsuka\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Tsuka\Documents\VisualStudio2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tsuka\Documents\Visual Studio 2013\Projects\movieedit\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
